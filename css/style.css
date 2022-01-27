@@ -383,7 +383,7 @@ body.overflow-hidden {
 }
 .review_slide p{
     display: block;
-    max-width: 400px;   
+    max-width: 391px;   
     margin:0 auto;
     font-family: Open Sans;
     font-style: normal;
@@ -392,6 +392,7 @@ body.overflow-hidden {
     line-height: 30px;
     text-align: center;
     color: #343434; 
+    white-space: pre-wrap;
 }
 .review_slide p:first-child{
     margin-top: 78px;
